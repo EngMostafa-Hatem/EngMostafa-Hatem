@@ -57,8 +57,3 @@
 - 💼 LinkedIn: [Add your profile if available]
 - 🖥️ Portfolio (Optional): Add a link if you have one
 
----
-
-## 📊 GitHub Stats
-
-![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafahatem&show_icons=true&theme=github_dark)
